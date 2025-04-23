@@ -119,6 +119,7 @@ Marketing starts long before you launch. Market research, planning, and preparat
   - [ ] Instagram
   - [ ] Snapchat
   - [ ] YouTube
+  - [ ] Reddit
 - [ ] Standardize profile image, background photo, links and call to action across social channels.
 - [ ] Consider putting premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
 
