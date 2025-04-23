@@ -67,6 +67,7 @@ Marketing starts long before you launch. Market research, planning, and preparat
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
   - [ ] [Plausible Analytics](https://plausible.io/)
   - [ ] [Smartlook](https://www.smartlook.com/)
+  - [ ] Pixel (Meta)
 - [ ] Set up error logging, monitoring, capturing, etc.
 - [ ] Error monitoring tools to try:
   - [ ] [Bugsnag](https://www.bugsnag.com/)
